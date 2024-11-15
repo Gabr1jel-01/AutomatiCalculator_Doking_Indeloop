@@ -9,6 +9,7 @@
     - [Preview:](#preview)
     - [How to use:](#how-to-use)
     - [Database of gases](#database-of-gases)
+  - [Try it yourself !](#try-it-yourself-)
 
 ## Goal
 
@@ -22,7 +23,8 @@ I have made this application using CustomTkinter ,a Python framework for modern 
 
 ![image](screenshot.png)
 
-> [!NOTE] The application is developed in Croatian as it is not intended for broader use, but solely for our department.
+> [!NOTE]
+> The application is developed in Croatian as it is not intended for broader use, but solely for our department.
 
 ### How to use:
 
@@ -37,7 +39,8 @@ Usually, to get the middle molar heat capacity of a gas at a certain temperature
 
 ### Database of gases
 
-> [!IMPORTANT] One of my colleagues requested that the application be able to calculate the average molar heat capacity of certain gases, so I only included those specific gases in the application's database.
+> [!IMPORTANT]
+> One of my colleagues requested that the application be able to calculate the average molar heat capacity of certain gases, so I only included those specific gases in the application's database.
 
 The data contains CP constant of these gases
 
@@ -57,4 +60,6 @@ The data contains CP constant of these gases
 - H2S
 - SO2
 
-> [!IMPORTANT] Everything is stored inside of a dictionary!
+## Try it yourself !
+
+I have included the AutCalcApp.exe file in this repository so that you can try this application for yourself. There is no need to install anything, just download the folder and run the AutCalcApp.exe file.
